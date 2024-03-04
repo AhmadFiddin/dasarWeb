@@ -72,7 +72,7 @@ echo "Hasil Modulus: " . $a . "<br><br><br>";
 $hasilIdentik = $a === $b;
 $hasilTidakIdentik = $a !== $b;
 echo "Diketahuhi nilai a = 10 ; b = 5 <br><br>";
-echo "Berikut adalah hasil dari beberapa Operator Penugasan di php : <br>";
+echo "Berikut adalah hasil dari beberapa Operator Identik di php : <br>";
 $hasilIdentik = $a === $b;
 echo "Hasil Identik: " . ($hasilIdentik ? 'True' : 'False') . "<br>";
 
